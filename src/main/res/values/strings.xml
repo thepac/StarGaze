@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherLocation</string>
+    <string name="action_settings">Settings</string>
+    <string name="TempTxt">Temperature</string>
+    <string name="condTxt">Condition</string>
+    <string name="locTxt">Location</string>
+</resources>
